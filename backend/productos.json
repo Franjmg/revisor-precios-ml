@@ -1,52 +1,77 @@
 [
     {
-        "titulo": "Notebook Exo Smart T38 Intel N4020 4gb Ssd128gb Windows 11 Color Gris",
-        "precio": "671.999",
-        "imagen": ""
-    },
-    {
-        "titulo": "Notebook Cx 27000w, Conectividad 4g Lte Con Chip De Celular , 128gb Ssd , 4gb Ram, 14.1  1366 Px X 768 Px , Qualcomm Sc7180 2.4ghz, Gpu Adreno 618, Windows 10 Pro",
-        "precio": "544.444",
-        "imagen": ""
-    },
-    {
         "titulo": "Notebook Acer Aspire Ryzen 7 5700u 16gb 512gb 15,6' Fhd Gris Color Plateado",
-        "precio": "1.151.599",
-        "imagen": ""
+        "precio": "1.999.999",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_735859-MLU75755217597_042024-V.webp"
     },
     {
-        "titulo": "Notebook Asus X515EA slate grey 15.6\", Intel Core i3 1115G4  8GB de RAM 256GB SSD, Gráficos Intel UHD 1366x768px FreeDOS",
-        "precio": "724.995",
-        "imagen": ""
-    },
-    {
-        "titulo": "Notebook Hp 255 G9 R5 5625u 8gb Ssd 256gb 15.6 W11h Ct Color Gris ceniza",
-        "precio": "889.999",
-        "imagen": ""
+        "titulo": "Notebook Cx Cx25000w Iron Gray 11.6 Hd , Intel Celeron N3350 4gb De Ram 64gb Ssd, Intel Graphics Hd 500 1366px X 768 Px Windows 10 Pro",
+        "precio": "337.999",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_768736-MLA71876722654_092023-V.webp"
     },
     {
         "titulo": "Notebook Exo Smart R33 Intel N4020 4gb Ssd 64 Gb Windows 11 Color Gris",
         "precio": "599.999",
-        "imagen": ""
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_836176-MLA51801111447_102022-V.webp"
     },
     {
-        "titulo": "Notebook Hp Pentium N200 4gb 128gb Ufs 15,6 Win11 Red Color Rojo",
-        "precio": "749.499",
-        "imagen": ""
+        "titulo": "Notebook Asus X515EA slate grey 15.6\", Intel Core i3 1115G4  8GB de RAM 256GB SSD, Gráficos Intel UHD 1366x768px FreeDOS",
+        "precio": "724.999",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_950078-MLA71208111400_082023-V.webp"
+    },
+    {
+        "titulo": "Notebook Hp 255 G9 R5 5625u 8gb Ssd 256gb 15.6 W11h Ct Color Gris ceniza",
+        "precio": "889.999",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_697062-MLU72530215861_102023-V.webp"
     },
     {
         "titulo": "Notebook Lenovo IdeaPad 14IGL7  cloud gray 14\", Intel Pentium Silver N5030  4GB de RAM 128GB SSD, Intel UHD Graphics 605 1366x768px Windows 11 Home",
-        "precio": "495.999",
-        "imagen": ""
+        "precio": "465.000",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_630486-MLA69452918322_052023-V.webp"
     },
     {
-        "titulo": "Notebook Asus X515EA gris 15.6\", Intel Core i5 1135G7  8GB de RAM 256GB SSD, Intel Iris Xe Graphics G7 80EUs 1920x1080px FreeDOS",
-        "precio": "736.990",
-        "imagen": ""
+        "titulo": "Cloudbook Ca141-c Aiwa 14,1´ 4gb Ram - 128gb",
+        "precio": "439.534",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_848066-MLU73213616811_122023-V.webp"
     },
     {
-        "titulo": "Notebook Asus VivoBook 16 F1605ZA-WS74 Core i7 1255u 16gb 512gb 16\" Fhd Win11 Color Negro",
-        "precio": "1.369.890",
-        "imagen": ""
+        "titulo": "Notebook Exo Smart Celeron N4020 14.1  4gb 128 Ssd",
+        "precio": "404.999",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_888197-MLU71401675437_082023-V.webp"
+    },
+    {
+        "titulo": "Notebook Samsung Galaxy Book3 15.6 Intel Core I3 6 Núcleos 8gb 256gb Color Silver",
+        "precio": "1.589.999",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_689284-MLU72675216004_112023-V.webp"
+    },
+    {
+        "titulo": "Notebook Asus X515EA slate grey 15.6\", Intel Core i7 1165G7  40GB de RAM 1TB SSD, Intel Iris Xe Graphics 60 Hz 1920x1080px FreeDOS",
+        "precio": "1.430.000",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_950078-MLA71208111400_082023-V.webp"
+    },
+    {
+        "titulo": "Notebook Hp 15.6' 256gb Ssd / 8gb Ram Intel I3-11va - Cover Color Azul",
+        "precio": "869.000",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_848089-MLU74956874177_032024-V.webp"
+    },
+    {
+        "titulo": "Notebook Acer Aspire 3 Intel Core I5 8gb Ram 512gb Ssd Win11 Color Plateado",
+        "precio": "940.000",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_751083-MLU71656964044_092023-V.webp"
+    },
+    {
+        "titulo": "Notebook Dell Inspiron 3525 plata 15.5\", AMD Ryzen 5 5500U  8GB de RAM 512GB SSD, AMD Radeon RX Vega 7 120 Hz 1920x1080px Windows 11 Home",
+        "precio": "1.452.500",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_696185-MLA54896761378_042023-V.webp"
+    },
+    {
+        "titulo": "Notebook Samsung Galaxy Book3 15.6 I5 8gb 512gb Color Silver",
+        "precio": "2.019.999",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_812840-MLU72415592667_102023-V.webp"
+    },
+    {
+        "titulo": "Notebook Samsung Galaxy Np750 Book3 15.6, procesador I7 Intel I7, 16gb 512gb 10 nucleo",
+        "precio": "2.169.999",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_918976-MLU72748272045_112023-V.webp"
     }
 ]
